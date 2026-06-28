@@ -1,0 +1,17 @@
+openai
+langgraph
+langchain
+langchain-openai
+langchain-google-genai
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+redis
+chromadb
+python-dotenv
+langsmith
+httpx
+tiktoken
+ipykernel
