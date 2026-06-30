@@ -15,3 +15,5 @@ langsmith
 httpx
 tiktoken
 ipykernel
+langserve
+langchain-community
